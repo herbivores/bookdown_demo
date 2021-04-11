@@ -1,6 +1,6 @@
 --- 
 title: "A Minimal Book Example"
-author: "Herbivores"
+author: "Herbivores och super hedda"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
